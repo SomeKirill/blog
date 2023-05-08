@@ -1,9 +1,10 @@
 ---
-title: "flaws.cloud walkthrough"
-seoTitle: "flaws.cloud walkthrough"
+title: "flaws.cloud level 1 walkthrough"
+seoTitle: "flaws.cloud level 1 through"
 datePublished: Mon May 08 2023 14:10:33 GMT+0000 (Coordinated Universal Time)
 cuid: clhex75qv000009l8alhn7g8h
-slug: flawscloud-walkthrough
+slug: flawscloud-level-1-walkthrough
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1683555703657/cd8a60a2-202b-4903-9caa-3580529896a2.png
 tags: cloud, aws, security, aws-security, cloudsecurity
 
 ---
